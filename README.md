@@ -1,2 +1,2 @@
 # production-planning-sim
-This
+This software simulates the physical process of a running production plant.
